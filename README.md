@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **plakshakar97@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EFisaOHP0LS6nlSw72_kNxdPCWf23Xbx/view?usp=sharing](https://drive.google.com/file/d/1EFisaOHP0LS6nlSw72_kNxdPCWf23Xbx/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZHLZl7lPLttxQ_psM2AGIWSK6SN8wJLi/view?usp=sharing](https://drive.google.com/file/d/1ZHLZl7lPLttxQ_psM2AGIWSK6SN8wJLi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
