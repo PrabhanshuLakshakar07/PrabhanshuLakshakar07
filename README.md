@@ -106,11 +106,12 @@ I'm **Prabhanshu Lakshakar** — a results-driven **Full Stack Developer** who e
 
 | 🔭 Project | 📝 Description | 🛠️ Stack |
 |:---|:---|:---|
+<!--
 | **[Project Alpha](https://github.com/prabhanshulakshakar07)** | Full-stack web app with auth, RBAC & REST APIs | React · Node.js · PostgreSQL · Docker |
 | **[Project Beta](https://github.com/prabhanshulakshakar07)** | Microservices backend with message queues | Express · MongoDB · Redis · Kubernetes |
 | **[Project Gamma](https://github.com/prabhanshulakshakar07)** | Real-time dashboard with WebSockets | Next.js · Socket.io · MySQL · AWS |
 | **[Project Delta](https://github.com/prabhanshulakshakar07)** | Scalable REST API with caching & rate limiting | Node.js · Redis · PostgreSQL · NGINX |
-
+-->
 > 💡 *Replace placeholders with your actual repos — pin the best ones!*
 
 </div>
